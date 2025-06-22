@@ -33,11 +33,7 @@ I enjoy working on projects that allow me to grow while delivering meaningful an
         <img src="https://img.shields.io/badge/portfolio-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt='Portfolio' height='40'>
       </a>
     </td>
-    <td>
-      <a href="https://github.com/Nafiz-Nasim">
-        <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/github.svg" alt='GitHub' height='40'>
-      </a>
-    </td>
+    
   </tr>
 </table>
 
