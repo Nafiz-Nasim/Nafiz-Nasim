@@ -29,7 +29,7 @@ I enjoy working on projects that allow me to grow while delivering meaningful an
       </a>
     </td>
     <td>
-      <a href="https://celebrated-biscotti-917a05.netlify.app/">
+      <a href="[https://nafiz-nasim.netlify.app/]">
         <img src="https://img.shields.io/badge/portfolio-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt='Portfolio' height='40'>
       </a>
     </td>
